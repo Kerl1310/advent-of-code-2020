@@ -1,6 +1,6 @@
 import unittest
 
-from helpers.inputs import read_number_input_as_list
+from helpers.input_helper import read_number_input_as_list
 from day_one.main import *
 
 TEST_DATA = [1721,
